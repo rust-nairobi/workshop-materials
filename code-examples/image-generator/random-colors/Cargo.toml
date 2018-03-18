@@ -1,0 +1,8 @@
+[package]
+name = "random-colors"
+version = "0.1.0"
+authors = ["Matt Gathu <mattgathu@gmail.com>"]
+
+[dependencies]
+image = "0.12.3"
+rand = "0.4"
