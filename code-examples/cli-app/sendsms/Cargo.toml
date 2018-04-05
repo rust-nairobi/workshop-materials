@@ -1,0 +1,8 @@
+[package]
+name = "sendsms"
+version = "0.1.0"
+authors = ["Matt Gathu <mattgathu@gmail.com>"]
+
+[dependencies]
+africastalking_gateway = "0.1.0"
+clap = "2.31.2"
