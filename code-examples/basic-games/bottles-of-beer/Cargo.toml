@@ -1,0 +1,6 @@
+[package]
+name = "bottles-of-beer"
+version = "0.1.0"
+authors = ["Jean Abayo <abagammy@gmail.com>"]
+
+[dependencies]
